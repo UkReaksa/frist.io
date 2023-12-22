@@ -1,0 +1,13 @@
+.a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar{
+    background-color: rgb(233, 229, 229);
+    box-shadow: 0px 0px 20px 0px black;
+}
+.navbar-toggler{
+    border: none;
+}
+
+
